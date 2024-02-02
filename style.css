@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(139, 0, 0);
+}
+#my-first-id {
+    color: rgba(255, 255, 255, 0.927);
+    font-size: 60px;
+
+}
+.my-first-class {
+    color:rgb(233, 238, 255);
+    font-size: 20px;
+}
